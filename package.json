@@ -1,0 +1,15 @@
+{
+  "name": "sutihr",
+  "version": "1.0.0",
+  "description": "Auto clock in and clock out from Suti HR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nimeet SHah",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0",
+    "puppeteer": "^2.1.1"
+  }
+}
