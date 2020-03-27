@@ -2,8 +2,8 @@ const puppeteer = require('puppeteer');
 const moment = require('moment');
 const fs = require('fs');
 
-const USERNAME ='Nshah';
-const PASSWORD = 'test0101';
+const USERNAME ='';
+const PASSWORD = '';
 
 function randomNumber(min, max) {
     return Math.random() * (max - min) + min;
